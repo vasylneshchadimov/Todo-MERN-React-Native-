@@ -1,6 +1,6 @@
 # Todo
 
-> For This project was used MERN stask
+> For this project was used MERN stask
 
 # Run project
 
